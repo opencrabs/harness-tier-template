@@ -6,6 +6,8 @@ the finished board. No design tools, no AI-image roulette.
 
 ## Layout
 
+![Template](assets/harness-tier-list-template.jpg)
+
 ```
 harness-tier-template/
 ├── config.json      <- tiers, order, names, colors (EDIT THIS)
