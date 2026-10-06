@@ -1,0 +1,58 @@
+{
+  "title": "CODING HARNESS TIER LIST",
+  "subtitle": "2026 edition \u2022 adolfousier",
+  "tiers": [
+    {
+      "name": "GOAT",
+      "color": [255, 214, 64],
+      "entries": [
+        { "name": "OpenCrabs", "logo": "opencrabs.png" }
+      ]
+    },
+    {
+      "name": "S",
+      "color": [255, 70, 85],
+      "entries": [
+        { "name": "Claude Code", "logo": "claude.png" },
+        { "name": "Grok Build", "logo": "grok.png" }
+      ]
+    },
+    {
+      "name": "A",
+      "color": [255, 159, 69],
+      "entries": [
+        { "name": "OpenCode", "logo": "opencode.png" },
+        { "name": "OMP", "logo": "omp.png" }
+      ]
+    },
+    {
+      "name": "B",
+      "color": [245, 197, 66],
+      "entries": [
+        { "name": "Zcode", "logo": "zcode.png" },
+        { "name": "DeepSeek Harness", "logo": "deepseek.png" }
+      ]
+    },
+    {
+      "name": "C",
+      "color": [46, 204, 113],
+      "entries": [
+        { "name": "Codex", "logo": "codex.png" }
+      ]
+    },
+    {
+      "name": "D",
+      "color": [52, 152, 219],
+      "entries": [
+        { "name": "Antigravity", "logo": "antigravity.png" }
+      ]
+    },
+    {
+      "name": "F",
+      "color": [155, 89, 182],
+      "entries": [
+        { "name": "OpenClaw", "logo": "openclaw.png" }
+      ]
+    }
+  ]
+}
